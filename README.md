@@ -1,2 +1,1 @@
-# my-first-github-project. 
-Author - Vanshika Sharma
+# my-first-github-project. <br> Author - Vanshika Sharma
